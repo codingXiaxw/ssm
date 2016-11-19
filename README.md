@@ -711,7 +711,7 @@ public class StringTrimConverter implements Converter<String,String> {
 
 这个converter的配置是一劳永逸的配置，也就是系统架构级别的配置，希望你能成功掌握。
 
-好了，通过上述的案例，便成功的使用了SSM框架对对商品信息的三个功能。希望通过这个案例，你能成功掌握SSM框架。
+好了，通过上述的案例，便成功的使用了SSM框架对对商品信息的三个功能。希望通过这个案例，你能成功掌握SSM框架。接下来我将讲解使用SSM进行注解开发的高级知识。
 
 ## 3.联系
 
